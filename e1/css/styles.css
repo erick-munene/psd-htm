@@ -10,10 +10,10 @@ html {
 #main {
     margin-right: 40%;
     margin-left: 10%;
-    margin-top: 100%;
+    margin-top: 5%;
     margin-bottom: 50%;
     width: 80%;
-    height:60%;
+    height:90%;
     background-color: white;
     border-radius: 0;
     
@@ -53,7 +53,9 @@ html {
     margin-top: 30px;
 }
 
-#nav {
+#nav li{
     background-color: aqua;
+    display:block;
+    
     
 }
