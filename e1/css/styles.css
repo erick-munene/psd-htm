@@ -26,7 +26,7 @@ html {
 #leftside {
    width: 20%;
     height: 100%;
-     background-color: #2F2F3D;
+     background-color: #5F5C6E;
     border-radius: 0px;
     float: left;
         
@@ -39,7 +39,7 @@ html {
 #right {
    width: 80%;
     height: 100%;
-     background-color: yellow;
+     background-color: white;
     border-radius: 0px;
     float: right;
         
@@ -54,8 +54,19 @@ html {
 }
 
 #nav li{
-    background-color: aqua;
+    font-size: 1.2em;
     display:block;
+    padding: 6%;
+    color: dodgerblue;
     
     
 }
+
+#nav a{
+    color: darkgray;
+}
+
+#nav a:hover{
+    color: white;
+}
+
