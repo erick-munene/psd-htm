@@ -1,0 +1,37 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+.container{
+    margin: 0 auto;
+    width: 80%;
+    height: 700px;
+    background-color: #524B58;
+    
+}
+.header{
+    
+    height: 10%;
+    color: #F66A06;
+    background-color: #3F3F3F;
+    text-align: center;
+    padding: 1.5%;
+    
+}
+.bb{
+    align-content: center;
+}
+
+.cc{
+    float: inherit;
+    align-content: center;
+}
+
+.column one {
+    margin:0 auto;
+    font-size: 20px;
+    color: white;
+    background-image:url(../assets/bg.jpg)
+    
+}
