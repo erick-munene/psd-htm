@@ -1,0 +1,111 @@
+body{
+    background-color: #352D2F;
+}
+
+#small small{
+    margin: 0 auto;
+    text-align: center;
+
+    
+  color: aqua;  
+ background-color: crimson;
+}
+
+#menu a{
+    
+    color: white;
+}
+
+#menu :hover ul{
+   color: aqua; 
+}
+
+#one p{
+    text-align: center;
+    color: white;
+    font-size: 4em;
+    padding-top: 20%;
+}
+#p{
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+#mid {
+    background-color: ghostwhite;
+    
+    
+        
+}
+
+#two{
+    
+    background-color: white;
+}
+#two p{
+    margin-left: 20%;
+    color:black;
+    text-align: left;
+}
+
+#two h1{
+    font-size: 2em;
+    margin-left: 20%;
+    color:black;
+    text-align: left;
+}
+
+#three{
+   
+    height: 4em;
+      
+    background-color: #352D2F;
+}
+
+
+
+#five{
+    margin-left: 25%;
+    margin-top: 5%;
+    background-color: whitesmoke;
+    height: 7.7em;
+    
+}
+
+#five p {
+    font-size: 0.5ex;
+}
+
+
+#complex{
+    background-color: #F63C3C;
+    margin-left: 0 auto;
+   border-right: 0 auto;
+    height: 30%;
+    
+}
+
+#right{
+     background-color: #F63C3C;
+    margin-top: 10%;
+    height: 80%;
+}
+
+#right h1{
+    color: #605A5C;
+ 
+    
+}
+#right h2{
+    color: white;
+}
+
+#right p{
+    color:#605A5C; 
+}
+
+#sage{
+    height: 50%;
+    background: white;
+}
