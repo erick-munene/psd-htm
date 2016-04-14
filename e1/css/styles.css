@@ -70,3 +70,18 @@ html {
     color: white;
 }
 
+#gallery{
+    display: block;
+    
+}
+
+.column img{
+    width: 20%;
+   display: inline;
+    margin-left: 4%
+    
+}
+
+
+
+/*...................................................*/
