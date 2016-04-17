@@ -109,10 +109,20 @@
 #sage{
     height: 50em;
     background: white;
+    float: right;
+    margin: 0 auto;
 }
 
 #sage img{
-    max-height: 700px;
-    max-width: 400px;
+    padding:20%;
+    display: inline-block;
+   height: 70%;
+    width: 100%;
     
+    
+}
+
+
+#history {
+    float: left;
 }
