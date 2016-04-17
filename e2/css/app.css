@@ -1,4 +1,4 @@
-body{
+ body{
     background-color: #352D2F;
 }
 
@@ -74,7 +74,7 @@ body{
 }
 
 #five p {
-    font-size: 0.5ex;
+    font-size: 1.0ex;
 }
 
 
@@ -89,7 +89,8 @@ body{
 #right{
      background-color: #F63C3C;
     margin-top: 10%;
-    height: 80%;
+    height: 20.66em
+    
 }
 
 #right h1{
@@ -106,6 +107,12 @@ body{
 }
 
 #sage{
-    height: 50%;
+    height: 50em;
     background: white;
+}
+
+#sage img{
+    max-height: 700px;
+    max-width: 400px;
+    
 }
