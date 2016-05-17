@@ -42,7 +42,8 @@
 
 #footer{
     color: aliceblue;
-    background-color: #565A69; 
+    background-color: #565A69;
+    padding: 2%;
 }
 
 #footer p{
