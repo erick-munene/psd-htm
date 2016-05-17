@@ -28,3 +28,12 @@
     text-align: center;
     margin: 0 auto;
 }
+
+#button{
+    border-radius: 2.5em;
+    padding: 2%;
+    font-size: 1.75em;
+    color:#FE9914;
+ 
+    background-color:#565A69; 
+}
