@@ -27,12 +27,14 @@
     color: aliceblue;
     text-align: center;
     margin: 0 auto;
+    font-size: 2em;
 }
 
 #button{
+    margin-top: 2%;
     border-radius: 2.5em;
     padding: 2%;
-    font-size: 1.75em;
+    font-size: 1em;
     color:#FE9914;
  
     background-color:#565A69; 
