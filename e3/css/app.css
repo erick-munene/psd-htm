@@ -39,3 +39,12 @@
  
     background-color:#565A69; 
 }
+
+#footer{
+    color: aliceblue;
+    background-color: #565A69; 
+}
+
+#footer p{
+    color:gray;
+}
