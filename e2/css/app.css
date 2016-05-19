@@ -160,3 +160,12 @@
 #sec03 {
     background-color: whitesmoke;
 }
+
+#sec03 p {
+    font-size: 0.5em;
+    
+}
+
+#sec03 h2 {
+    font-size: 1.5em;
+}
